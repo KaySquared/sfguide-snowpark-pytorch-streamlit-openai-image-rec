@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "NNTUFTI-XS72958",
+  "user"      : "KAYLAKAY",
+  "password"  : "AgentC0oper@2024",
+  "role"      : "SYSADMIN",
+  "warehouse" : "SNOWPARK_WH",
+  "database"  : "SNOWPARK_PYTHON_DEMO",
+  "schema"    : "PUBLIC"
 }
